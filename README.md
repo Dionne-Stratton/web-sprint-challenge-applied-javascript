@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content. The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript.
+
 2. What is an event?
+
+JavaScript's interaction with HTML is handled through events that occur when the user or the browser manipulates a page. When the page loads, it is called an event. When the user clicks a button, that click too is an event. Other examples include events like pressing any key, closing a window, resizing a window, etc.
 
 3. What is an event listener?
 
+An event listener is a procedure in JavaScript that waits for an event to occur and then executes the designated code.
+
 4. Why would we convert a NodeList into an Array?
 
+It enables us to then manipulate it with array methods.
+
 5. What is a component?
+
+Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and returns HTML via a render function. Components come in two types, Class components and Function components.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
